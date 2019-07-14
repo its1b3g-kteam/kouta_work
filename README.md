@@ -12,3 +12,6 @@
 * また対話型ではなく、pythonプロジェクトを作成したい場合は、PyCharmにAnacondaを連携させています。  
 ※PyCharmは平たく言うとeclipse的なやつです。  
 参考：　https://qiita.com/suJiJi/items/c0fe298969b4cdf569d9
+
+* JupyterLabで使用するipynbファイルは標準githubではレンダリングできないので、github MarketplaceからReview Notebook Appを全体に導入しました。ipynbのレンダリングができると思います。
+https://github.com/apps/review-notebook-app
